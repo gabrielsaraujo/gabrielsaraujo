@@ -11,7 +11,7 @@ I am currently working as a developer desktop at [@accenture](https://www.accent
 My usual daily stack's and functions:
 
 - 💻 Backend development with **Sprintboot**, **.NET**. Work performing functional tests on API's with **Postman**, consuming their data with Web Services through **HTTP** requests.
-Managing the data with **Oracle** and **MySQL**.
+Managing the data with **Oracle** and **SQLServer**.
 - 👀 I’m interested in learning web development with **React**.
 - 🌱 I’m currently learning **JavaScript** and **TypeScript**
 
